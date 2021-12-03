@@ -38,7 +38,7 @@ After feeding image data into Google's MediaPipe module to isolate the "skeleton
 
 ## Tools
 OpenCV for converting image data into usable vectors
-Google's MediaPipe for calculating hand "landmarks."
+Google's MediaPipe for calculating hand "landmarks"
 Pandas and NumPy for data storage and formatting
 TensorFlow's Keras module for constructing neural networks
 Matplotlib for data visualization
