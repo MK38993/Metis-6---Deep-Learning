@@ -5,7 +5,7 @@
 ## Abstract
 In this project, I constructed and compared CNN and MLP networks in order to identify ASL hand signs.
 
-I trained both models using a dataset from [Kaggle](https://www.kaggle.com/grassknoted/asl-alphabet), and created a separate Jupyter notebook for easy usage.
+I trained both models using a dataset from [Kaggle](https://www.kaggle.com/grassknoted/asl-alphabet), and created a custom script for easy usage.
 
 
 ## Design
@@ -45,7 +45,7 @@ Matplotlib for data visualization
 
 
 ## Communication
-In addition to my [slide presentation](https://docs.google.com/presentation/d/15aoP4n8LFIX6UCbp9nAwwszpL5KgcS2fGVurspfklR4/edit?usp=sharing), the secondary Jupyter notebook I created for demonstration can be found [here](https://github.com/MK38993/Metis-6---Deep-Learning/blob/main/Metis%206%20ASL%20Demonstration.ipynb).
+In addition to my [slide presentation](https://docs.google.com/presentation/d/15aoP4n8LFIX6UCbp9nAwwszpL5KgcS2fGVurspfklR4/edit?usp=sharing), the app folder I created for demonstration can be found [here](https://github.com/MK38993/Metis-6---Deep-Learning/tree/main/python-demo).
 
 
 
