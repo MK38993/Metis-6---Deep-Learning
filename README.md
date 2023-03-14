@@ -20,7 +20,7 @@ The 'J' sign is identical to the 'I' sign, but with the addition of a 'fishhook'
 Many photos are of the same person and the same gesture, but at a slightly different angle, presumably to allow a network to generalize more effectively.
 
 ## Algorithms
-Before using the images, I scaled each one to 64x64 in order to save storage space and allow a CNN to more easily create filters.
+Before using the images, I scaled each one to 64x64 pixels in order to save storage space and allow a CNN to more easily create filters.
 
 I divided the data into 80-20 train-test splits.
 
